@@ -84,7 +84,6 @@ function Now() {
           />
           <span>updated {now.updated}</span>
           <span style={{ color: 'var(--color-muted-2)' }}>·</span>
-          <span>inspired by nownownow.com</span>
         </div>
 
         {/* Items */}
