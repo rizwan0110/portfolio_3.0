@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Live site: [your-vercel-url.vercel.app](https://portfolio-3-0-sand.vercel.app/)
+Live site: [Link](https://portfolio-3-0-sand.vercel.app/)
 
 ## Tech Stack
 - React + Vite
