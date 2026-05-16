@@ -60,11 +60,13 @@ export default function Navbar({ active, theme, onToggleTheme, onOpenCmdk }) {
         >
           <span
             style={{
-              width: 8, height: 8, borderRadius: 2,
-              background: 'var(--color-accent)',
+              fontFamily: 'var(--font-mono)', fontWeight: 700,
+              fontSize: 13, color: 'var(--color-accent)',
               flexShrink: 0,
             }}
-          />
+          >
+            MR
+          </span>
           <span style={{ fontWeight: 600 }}>{profile.handle}'s</span>
           <span style={{ color: 'var(--color-muted)' }}>/</span>
           <span style={{ color: 'var(--color-muted)' }}>portfolio</span>
